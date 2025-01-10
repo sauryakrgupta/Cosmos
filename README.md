@@ -40,7 +40,7 @@ Details of the platform is described in the [Cosmos paper](https://research.nvid
 
 Follow the [Cosmos Installation Guide](INSTALL.md) to setup the docker. For inference with the pretrained models, please refer to [Cosmos Diffusion Inference](cosmos1/models/diffusion/README.md) and [Cosmos Autoregressive Inference](cosmos1/models/autoregressive/README.md).
 
-The code snippet below provides a gist of the inference usage.
+The code snippet below provides a gist of inference usage.
 
 ```bash
 PROMPT="A sleek, humanoid robot stands in a vast warehouse filled with neatly stacked cardboard boxes on industrial shelves. \
